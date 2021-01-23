@@ -7,7 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{3FBAEB4B-EE34-408C-8EB9-EC730C5C5593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{EABED3A5-E89C-4CBB-8670-A64570728B36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{EABED3A5-E89C-4CBB-8670-A64570728B36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{31ED4D65-1B95-4826-989B-41E6E534ED81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{E9A808F0-FE99-4649-80E4-C00CD25EE522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{D056155C-E574-4FAF-A90A-1683E5305E63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{EABED3A5-E89C-4CBB-8670-A64570728B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EABED3A5-E89C-4CBB-8670-A64570728B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EABED3A5-E89C-4CBB-8670-A64570728B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31ED4D65-1B95-4826-989B-41E6E534ED81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ED4D65-1B95-4826-989B-41E6E534ED81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ED4D65-1B95-4826-989B-41E6E534ED81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ED4D65-1B95-4826-989B-41E6E534ED81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A808F0-FE99-4649-80E4-C00CD25EE522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A808F0-FE99-4649-80E4-C00CD25EE522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A808F0-FE99-4649-80E4-C00CD25EE522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A808F0-FE99-4649-80E4-C00CD25EE522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D056155C-E574-4FAF-A90A-1683E5305E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D056155C-E574-4FAF-A90A-1683E5305E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D056155C-E574-4FAF-A90A-1683E5305E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D056155C-E574-4FAF-A90A-1683E5305E63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
