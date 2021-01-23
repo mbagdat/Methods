@@ -14,7 +14,7 @@ namespace MyDictionary
 
             foreach (var item in cities)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item);  
             }
         }
     }
